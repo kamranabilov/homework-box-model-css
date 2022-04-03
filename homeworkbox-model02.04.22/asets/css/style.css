@@ -1,0 +1,39 @@
+
+body{
+    background-color: antiquewhite;
+}
+.margin{
+    background-color: rgba(248, 168, 18, 0.897);
+    border: 30px solid rgba(248, 168, 18, 0.897);
+    width: 60%;
+    height: 89vh;
+    margin: 0 auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.border{
+    background-color: rgb(251, 255, 0);
+    border: 30px solid rgb(251, 255, 0);
+    height: 70vh;
+    width: 92%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.padding{
+    background-color: rgb(0, 255, 13);
+    border: 30px solid rgb(0, 255, 13);
+    height:48vh;
+    width: 91%;
+    margin: 0 auto;
+}
+.content{
+    background-color: rgb(67, 196, 219);
+    border: 30px solid rgb(67, 196, 219);
+    height: 23vh;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    background-image: url(https://www.meissl.com/media/images/8f24db1f/schweiz.jpg);
+    background-size: cover;          
+}
